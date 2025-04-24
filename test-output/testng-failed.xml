@@ -5,9 +5,9 @@
     <classes>
       <class name="myTest1.Test1">
         <methods>
-          <include name="removeOneRandomItem"/>
           <include name="myAfterTest"/>
           <include name="mysetup"/>
+          <include name="practice"/>
         </methods>
       </class> <!-- myTest1.Test1 -->
     </classes>
